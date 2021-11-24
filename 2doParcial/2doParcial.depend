@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1637701046 source:c:\users\rene\desktop\2do parcial\2doparcial\linkedlist.c
+	"linkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637618067 c:\users\rene\desktop\2do parcial\2doparcial\linkedlist.h
+
+1637762740 source:c:\users\rene\desktop\2do parcial\2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"linkedList.h"
+	"archivos.h"
+	"miBiblioteca.h"
+	"peliculas.h"
+
+1637762728 source:c:\users\rene\desktop\2do parcial\2doparcial\mibiblioteca.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637763416 source:c:\users\rene\desktop\2do parcial\2doparcial\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"archivos.h"
+	"miBiblioteca.h"
+	"peliculas.h"
+	"linkedList.h"
+	"parser.h"
+
+1637763535 c:\users\rene\desktop\2do parcial\2doparcial\archivos.h
+	"linkedList.h"
+
+1637763190 c:\users\rene\desktop\2do parcial\2doparcial\mibiblioteca.h
+
+1637763121 c:\users\rene\desktop\2do parcial\2doparcial\peliculas.h
+	"linkedList.h"
+
+1637762500 source:c:\users\rene\desktop\2do parcial\2doparcial\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"peliculas.h"
+	"miBiblioteca.h"
+	"linkedList.h"
+
+1637762343 source:c:\users\rene\desktop\2do parcial\2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"linkedList.h"
+	"archivos.h"
+	"miBiblioteca.h"
+	"peliculas.h"
+
+1637763148 c:\users\rene\desktop\2do parcial\2doparcial\parser.h
+

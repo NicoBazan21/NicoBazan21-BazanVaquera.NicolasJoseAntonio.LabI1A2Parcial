@@ -1,0 +1,17 @@
+id,titulo,genero,duracion
+2,My Brother The Devil,Drama,105
+3,Criminal,Drama,238
+11,Longtime Companion,Drama,192
+13,Werckmeister Harmonies,Drama,144
+16,Love In The Afternoon,Drama,202
+19,Moby Dick,Drama,235
+20,Doors,Drama,238
+30,Bedford Incident,Drama,209
+33,Twilight Of A Woman,Drama,198
+34,Little Girl,Drama,130
+35,G Men,Drama,235
+36,Camp,Drama,215
+37,Finding Forrester,Drama,175
+38,The End Of The Tour,Drama,162
+42,Beans Of Egypt,Drama,153
+50,Short Film About Love,Drama,199

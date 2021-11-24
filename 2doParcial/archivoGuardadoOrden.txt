@@ -1,0 +1,51 @@
+id,titulo,genero,duracion
+1,Adventures Of Rocky,Adventure,119
+15,Antarctica,Adventure,215
+42,Beans Of Egypt,Drama,117
+30,Bedford Incident,Drama,142
+47,Boy Meets Girl,Comedy,221
+28,Brotherhood Of Death,Action,111
+36,Camp,Drama,240
+3,Criminal,Drama,152
+21,Dont Look In The Basement,Horror,169
+20,Doors,Drama,164
+37,Finding Forrester,Drama,133
+9,Fools Parade,Comedy,228
+35,G Men,Drama,112
+44,Gabriel,Action,194
+18,Headhunters,Action,187
+10,Hitcher,Horror,176
+40,Invincible Iron Man,Animation,170
+24,Killing Bono,Comedy,193
+45,Killjoy 3,Horror,193
+34,Little Girl,Drama,226
+22,Lobo,Comedy,120
+11,Longtime Companion,Drama,171
+16,Love In The Afternoon,Drama,229
+5,Lovely Amazing,Comedy,191
+7,Mannequin,Comedy,123
+19,Moby Dick,Drama,224
+4,Monster In A Box,Comedy,110
+29,Music Within,Comedy,119
+2,My Brother The Devil,Drama,210
+25,My Friend Irma Goes,Musical,181
+39,Night Court,Thriller,173
+31,One Shot,Documentary,201
+23,Only Old Men,Comedy,157
+14,Open Season,Animation,143
+27,Powerpuff Girls,Action,150
+41,Professor Beware,Comedy,156
+8,Rouva Presidentti,Documentary,145
+12,San Francisco,Musical,207
+50,Short Film About Love,Drama,208
+6,Sleeping Dictionary,Romance,180
+43,Strike Up The Band,Comedy,220
+38,The End Of The Tour,Drama,215
+46,The Man Who Shook,Comedy,211
+32,Troll,Horror,135
+48,True Confession,Comedy,104
+33,Twilight Of A Woman,Drama,191
+49,Violent Men,Western,137
+26,Waiting,Comedy,230
+13,Werckmeister Harmonies,Drama,174
+17,Wild Tales,Comedy,124

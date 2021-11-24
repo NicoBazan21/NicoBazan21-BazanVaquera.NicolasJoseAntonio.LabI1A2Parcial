@@ -1,0 +1,16 @@
+id,titulo,genero,duracion
+4,Monster In A Box,Comedy,233
+5,Lovely Amazing,Comedy,171
+7,Mannequin,Comedy,117
+9,Fools Parade,Comedy,152
+17,Wild Tales,Comedy,146
+22,Lobo,Comedy,153
+23,Only Old Men,Comedy,187
+24,Killing Bono,Comedy,147
+26,Waiting,Comedy,178
+29,Music Within,Comedy,151
+41,Professor Beware,Comedy,130
+43,Strike Up The Band,Comedy,185
+46,The Man Who Shook,Comedy,210
+47,Boy Meets Girl,Comedy,154
+48,True Confession,Comedy,108

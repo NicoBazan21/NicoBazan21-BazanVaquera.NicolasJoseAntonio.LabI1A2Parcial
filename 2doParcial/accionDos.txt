@@ -1,0 +1,5 @@
+id,titulo,genero,duracion
+18,Headhunters,Action,227
+27,Powerpuff Girls,Action,126
+28,Brotherhood Of Death,Action,108
+44,Gabriel,Action,136
